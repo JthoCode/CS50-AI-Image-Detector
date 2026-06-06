@@ -1,2 +1,5 @@
-# CS50-AI-Image-Detector
-An AI Image detector for CS50 using Pytorch and Flask to see what images are AI or human made.
+# CS50 AI Image Detector
+
+### Video Demo:
+
+### Description: An AI Image detector using Pytorch and Flask to see what images are AI or human made.
