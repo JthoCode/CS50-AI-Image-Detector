@@ -1,0 +1,97 @@
+.navbar {
+  background-color: #477bff !important;
+}
+
+body {
+  background-color: #fff;
+  color: #212529;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  text-align: center;
+}
+
+.navbar-brand {
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link.active {
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.form-label {
+  font-size: 1.5rem;
+  margin-bottom: 40px; /* space between paragraph and input */
+}
+
+.image-upload {
+  margin-bottom: 30px; /* space between input and button */
+  width: 400px;
+}
+
+.btn.btn-primary {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.navbar-duck {
+  height: 40px;
+  width: auto;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+}
+
+/*ChatGPT made this code */
+
+.sample-images {
+  margin-top: 15px;
+  text-align: center;
+  gap: 20px;
+  justify-content: center;
+}
+
+.sample-image {
+  width: 150px;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.sample-image:hover {
+  border-color: #477bff;
+}
+
+/*Back to me coding*/
+
+.result {
+  text-align: center;
+}
+
+.green {
+  color: #6fcf6f;
+}
+
+.red {
+  color: #ff474c;
+}
+
+.yellow {
+  color: #ffb343;
+}
