@@ -2,6 +2,8 @@
 
 ### Video Demo:
 
-### Description: An AI Image detector using Pytorch and Flask to see what images are AI or human made.
+https://drive.google.com/file/d/1YMHay_Ie_iVsXdpWB9ZAOA9fwuS6BH3v/view
 
-### Pytorch Model: https://drive.google.com/file/d/1hi7wt45xA2E_dY2PtC26w1PB2zQlt_9F/view
+### Description:
+
+An AI Image detector using Pytorch and Flask to see what images are AI or human made.
